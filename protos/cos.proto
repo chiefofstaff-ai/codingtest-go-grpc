@@ -1,0 +1,12 @@
+
+syntax = "proto3";
+
+package cos;
+
+
+option go_package = "cosgrpctest/protos";
+
+
+service CosService {
+    
+}
